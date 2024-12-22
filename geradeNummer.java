@@ -14,7 +14,7 @@ public class geradeNummer {
             } else {
                 System.out.println("Le nombre entré est un nombre impair");
             }
-
+ 
             scanner.close();
         }
     }

@@ -22,6 +22,6 @@ public class maxNumber {
         int max = Math.max(Math.max(a, b), c);
         System.out.println("Le nombre le plus grand est: " + max);
 
-    }
+    } 
     
 }

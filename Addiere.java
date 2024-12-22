@@ -26,7 +26,7 @@ public class Addiere {
         // Fermeture du Scanner
         scanner.close();
     }
-
+ 
     // Méthode pour additionner deux nombres
     public static int addiere(int firstNummer, int secondNummer) {
         return (firstNummer + secondNummer);

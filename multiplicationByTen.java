@@ -14,5 +14,5 @@ public class multiplicationByTen {
         }
         scanner.close(); // fermeture du scanner pour libérer la mémoire
 
-    }
+    } 
 }
